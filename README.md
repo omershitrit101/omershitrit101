@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**omershitrit101/omershitrit101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Welcome to my GitHub! 👋
 
-Here are some ideas to get you started:
+My previous projects and contributions can be found in my old profile:
+- [Omerosh](https://github.com/Omerosh)
+I migrated here recently – feel free to explore my past work!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on chatbot-springboot project
+- 📫 How to reach me: omershitrit101@gmail.com
+- ✨ I’m actively looking for job opportunities in the high-tech industry ✨
+  =
+
+  
+
